@@ -1,10 +1,10 @@
-# Agricultural IoT Disease Prediction Network
+# agricultural-iot-disease-prediction-network
 
-Predict crop disease outbreaks from farm IoT observations.
+## Detailed Description
 
 ## Vertical
 
-iot
+## Problem Statement
 
 ## Production MVP Deliverables
 
